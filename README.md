@@ -10,9 +10,7 @@
 The testing of this API was done on the following endpoint: https://node1.eosphere.io/v1 *
 
 
-
-Main Screen 1: 
-![alt text](https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen1.png){:height="200px" width="400px"}
+<img src="https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen1.png" width="200" height="400">
 
 Main Screen 2: 
 ![alt text](https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen2.png){:height="200px" width="400px"}
