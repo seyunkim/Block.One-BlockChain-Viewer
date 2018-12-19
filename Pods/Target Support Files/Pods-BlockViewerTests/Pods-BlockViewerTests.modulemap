@@ -1,0 +1,6 @@
+framework module Pods_BlockViewerTests {
+  umbrella header "Pods-BlockViewerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

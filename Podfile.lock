@@ -1,0 +1,30 @@
+PODS:
+  - LBTAComponents (1.0.2)
+  - NVActivityIndicatorView (4.4.1):
+    - NVActivityIndicatorView/Presenter (= 4.4.1)
+  - NVActivityIndicatorView/Presenter (4.4.1)
+  - Shimmer (1.0.2)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - LBTAComponents
+  - NVActivityIndicatorView
+  - Shimmer
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LBTAComponents
+    - NVActivityIndicatorView
+    - Shimmer
+    - SnapKit
+
+SPEC CHECKSUMS:
+  LBTAComponents: c4c8863e0ef6715e378300db148b96a09df656f7
+  NVActivityIndicatorView: f0a6b0ed2973d9544da268f4eb76696f0a9577b0
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: e4b1d935fb372930e3587190222d49cfb9e6e5a8
+
+COCOAPODS: 1.6.0.beta.2
