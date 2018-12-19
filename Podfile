@@ -9,7 +9,6 @@ target 'BlockViewer' do
 pod 'SnapKit'
 pod "LBTAComponents"
 pod "Shimmer"
-pod 'NVActivityIndicatorView'
   target 'BlockViewerTests' do
     inherit! :search_paths
     # Pods for testing
