@@ -12,8 +12,8 @@ The testing of this API was done on the following endpoint: https://node1.eosphe
 Main Screen 1: 
 <img src="https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen1.png" width="250" height="500">
 
-Main Screen 2: 
+View the most recents blocks on the network. Drag down to refresh the cell. 
 <img src="https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen2.png" width="250" height="500">
 
-Main Screen 3: 
+View the contents of each block with greater detail.
 <img src="https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen3.png" width="250" height="500">
