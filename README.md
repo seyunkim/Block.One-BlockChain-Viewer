@@ -12,10 +12,9 @@ The testing of this API was done on the following endpoint: https://node1.eosphe
 
 
 Main Screen 1: 
-![alt text](https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen1.png = 200x400 "Image 1")
+![alt text](https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen1.png){:height="200px" width="400px"}
 
 Main Screen 2: 
-![alt text](https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen2.png = 200x400 "Image 2")
-
+![alt text](https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen2.png){:height="200px" width="400px"}
 Main Screen 3: 
-![alt text](https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen3.png =200x400 "Image 3")
+![alt text](https://github.com/seyunkim/Block.One-BlockChain-Viewer/blob/master/Screen3.png){:height="200px" width="400px"}
